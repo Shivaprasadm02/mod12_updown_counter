@@ -1,0 +1,2 @@
+var g_data = {"9":{"pr":"/count_pkg","ty":2,"dui":2,"dun":"work.count_pkg","cvgs":[{"h":["\\/count_pkg::count_sb::count_coverage ",2,1,16,10],"cov":[9,9,100.00],"opts":{"goal":"100","per_instance":"true"}},{"h":["/count_pkg/count_sb/count_coverage",1,1,10],"cov":[9,9,100.00],"opts":{"goal":"100","merge_instance":"auto(true)"}}]}};
+processCovergroupsData(g_data);
